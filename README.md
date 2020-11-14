@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Banner](https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg)
+<!-- ![Banner](https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg) -->
 
 [Follow me on Twitter](https://mobile.twitter.com/tomhermans)
 
