@@ -5,7 +5,7 @@
 <!-- ![Banner](https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg) -->
 
 
-[Check more code on Codepen]( ![Codepen logo](codepen.svg) https://codepen.io/tomhermans/)
+[ ![Codepen logo](codepen.svg) Check more code on Codepen](  https://codepen.io/tomhermans/)
 
 [Follow me on Twitter](https://mobile.twitter.com/tomhermans)
 
